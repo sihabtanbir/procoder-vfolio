@@ -7,11 +7,11 @@ module.exports = {
         poppins: [ "Poppins", 'sans-serif'],
       },
       colors: {
-        'bg-color' : '#091420',
-        'bg-dark-color': '#0cla28',
+        'bg-color' : '#111',
+        'bg-dark-color': '#222',
         'primary-color': '#4fe98c',
       },
-      widh: {
+      width: {
         'custom-image-width' : '200px',
       },
     },
